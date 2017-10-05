@@ -1,0 +1,5 @@
+hello-world
+start
+line in first stage in master branch
+line to be removed in next branch
+end
